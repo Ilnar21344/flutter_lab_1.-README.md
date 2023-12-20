@@ -56,7 +56,7 @@ class _CounterScreenState extends State<CounterScreen> {
         onPressed: _incrementCounter,
         tooltip: 'Увеличить',
         child: Icon(Icons.add),
-        backgroundColor: Colors.green, // Изменение цвета кнопки
+        backgroundColor: Colors.green, 
       ),
     );
   }
